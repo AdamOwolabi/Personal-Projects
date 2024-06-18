@@ -1,7 +1,11 @@
 table{
     border-collapse: collapse;
+    margin: 0 auto;
+    border-spacing: 1px;
+
+
 }
 td,th{
-    border: 10px solid rgb(64, 161, 196);
-    padding : 10px 20px;
+    border: 2px solid rgb(10, 10, 10);
+    padding : 20px 40px;
 }
