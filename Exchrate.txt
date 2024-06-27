@@ -1,0 +1,49 @@
+America,Dollar,1
+Argentina,Peso,8.405692
+Australia,Dollar,1.070835
+Austria,Euro,0.760488
+Belgium,Euro,0.760488
+Brazil,Real,2.237937
+Canada,Dollar,1.086126
+Chile,Peso,591.4077
+China,Yuan,6.143665
+Czech Rep.,Koruna,21.09312
+Denmark,Krone,5.640121
+European Union,Euro,0.760488
+Finland,Euro,0.760488
+France,Euro,0.760488
+Germany,Euro,0.760488
+Greece,Euro,0.760488
+Hong Kong,Dollar,7.750659
+Hungary,Forint,239.2141
+Iceland,Krona,116.928
+India,Rupee,60.53497
+Ireland,Euro,0.760488
+Israel,Sheqel,3.575005
+Italy,Euro,0.760488
+Japan,Yen,104.182
+Korea (South),Won,1013.056
+Kuwait,Dinar,0.2844853
+Mexico,Peso,13.08679
+Netherlands,Euro,0.760488
+New Zealand,Dollar,1.1929
+Norway,Krone,6.187769
+Pakistan,Rupee,102.5065
+Peru,Sol,2.847159
+Philippines,Peso,43.48437
+Poland,Zloty,3.201264
+Portugal,Euro,0.760488
+Romania,Leu,3.344094
+Russia,Ruble,37.17437
+Saudi Arabia,Riyal,3.750675
+Singapore,Dollar,1.248927
+Slovakia,Euro,0.760488
+South Africa,Rand,10.66882
+Spain,Euro,0.760488
+Sweden,Krona,6.982663
+Switzerland,Franc,0.917854
+Taiwan,Dollar,29.91087
+Thailand,Baht,31.97966
+U.A.E.,Dirham,3.673087
+Ukraine,Hryvnia,12.83265
+United Kingdom,Pound,0.602288
